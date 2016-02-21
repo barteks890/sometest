@@ -1,0 +1,3 @@
+[submodule "somecss"]
+	path = somecss
+	url = https://github.com/barteks890/somecss.git
